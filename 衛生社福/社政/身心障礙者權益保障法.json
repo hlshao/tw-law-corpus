@@ -1,12 +1,12 @@
 {
     "title": "身心障礙者權益保障法",
     "versions": [
-        "中華民國79年1月12日全文修正",
-        "中華民國79年1月24日公布"
+        "中華民國84年5月23日修正",
+        "中華民國84年6月16日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -24,7 +24,7 @@
         {
             "note": "(身心障礙者之定義及等級)",
             "rule_no": "第三條",
-            "content": "　　本法所稱殘障者，以合於中央主管機關所定等級之下列障礙並領有殘障手冊者為範圍：\n　　一、視覺障礙者。\n　　二、聽覺或平衡機能障礙者。\n　　三、聲音機能或語言機能障礙者。\n　　四、肢體障礙者。\n　　五、智能障礙者。\n　　六、多重障礙者。\n　　七、重要器官失去功能者。\n　　八、顏面傷殘者。\n　　九、植物人、老人痴呆症患者。\n　　十、自閉症者。\n　　十一、其他經中央主管機關認定之殘障者。\n　　前項殘障等級、第七款重要器官及第十一款其他殘障之項目，由中央主管機關會同中央衛生主管機關定之。",
+            "content": "　　本法所稱殘障者，以合於中央主管機關所定等級之下列障礙並領有殘障手冊者為範圍：\n　　一、視覺障礙者。\n　　二、聽覺或平衡機能障礙者。\n　　三、聲音機能或語言機能障礙者。\n　　四、肢體障礙者。\n　　五、智能障礙者。\n　　六、多重障礙者。\n　　七、重要器官失去功能者。\n　　八、顏面傷殘者。\n　　九、植物人、老人癡呆症患者。\n　　十、自閉症者。\n　　十一、慢性精神病患者。\n　　十二、其他經中央主管機關認定之障礙者。\n　　前項殘障等級、第七款重要器官、第十一款慢性精神病及第十二款其他殘障之項目，由中央主管機關會同中央衛生主管機關定之。",
             "relates": {}
         },
         {
@@ -196,120 +196,94 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　現行殘障福利法未將精神病患納入規範保障，對於病人家屬沈重的醫療費用負擔，只有在病人或其家屬家境清寒，無力負擔醫療費用時，才酌予補助，一般家庭更無從受其補助。故為保障精神病人福利，爰增設第十二款，以實現政府的福利政策。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "780602",
-            "立法紀錄": "78卷44期2260號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c7cfcbcbcfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "810707",
+            "立法紀錄": "81卷55期2583號上冊 50-50頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cecfcacacfcec4cfcfcacfc4cfcfcacf",
+            "主提案": "謝長廷",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccdcbcfcfc5cccdd2cbca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccbcfcfc5cecfcbc9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "780602",
-            "立法紀錄": "78卷44期2260號 14-29頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c7cfcbcbcfcfc4cfcfcecbc4cfcfcdc6",
-            "主提案": "趙少康",
+            "會議日期": "830617",
+            "立法紀錄": "83卷43期2717號上冊 62-82頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cccbcccfcec4cfcfc9cdc4cfcfc7cd",
+            "主提案": "徐中雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccdcbcfcfc5ccc6cfd2cbcfcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcdcfcdc5cac9cfd2cac7ce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "840310",
+            "立法紀錄": "84卷14期2771號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cbcecbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "顏錦福",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacfc8cfcec5c9c7d2ceccce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "780612",
-            "立法紀錄": "78卷92期2308號 2-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c7cfc6cdcfcfc4cfcfcfcdc4cfcfcecc",
+            "會議日期": "830623",
+            "立法紀錄": "83卷47期2721號下冊 339-359頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cccbc8cfccc4cfccccc6c4cfcccac6",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "780621",
-            "立法紀錄": "78卷95期2311號 22-31頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c7cfc6cacfcfc4cfcfcdcdc4cfcfccce",
+            "會議日期": "830713",
+            "立法紀錄": "83卷53期2727號 195-199頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cccacccfcfc4cfcec6cac4cfcec6c6",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "780622",
-            "立法紀錄": "78卷101期2317號 79-87頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c7cecfcecfcfc4cfcfc8c6c4cfcfc7c8",
+            "會議日期": "840327",
+            "立法紀錄": "84卷20期2777號 41-58頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cbcdcfcfcfc4cfcfcbcec4cfcfcac7",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "780628",
-            "立法紀錄": "78卷104期2320號 197-206頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c7cecfcbcfcfc4cfcec6c8c4cfcdcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "781007",
-            "立法紀錄": "79卷13期2333號 2-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfcecccfcfc4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "781014",
-            "立法紀錄": "79卷18期2338號 232-239頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfcec7cfcfc4cfcdcccdc4cfcdccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "781207",
-            "立法紀錄": "79卷35期2355號 250-266頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfcccacfcfc4cfcdcacfc4cfcdc9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "781216",
-            "立法紀錄": "79卷37期2357號 331-337頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfccc8cfcfc4cfcccccec4cfccccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "790109",
-            "立法紀錄": "79卷3期2323號 49-96頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfcfcccfcfc4cfcfcbc6c4cfcfc6c9",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840519",
+            "立法紀錄": "84卷31期2788號 48-62頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cbcccecfcfc4cfcfcbc7c4cfcfc9cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcec7cfcfc5c9cec7d2c9c9cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacecccfcdc5c6c8ced2c6c8c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "790109",
-            "立法紀錄": "79卷3期2323號 96-107頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfcfcccfcfc4cfcfc6c9c4cfcecfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "790111",
-            "立法紀錄": "79卷4期2324號 13-23頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfcfcbcfcfc4cfcfceccc4cfcfcdcc",
+            "會議日期": "840523",
+            "立法紀錄": "84卷32期2789號 33-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cbcccdcfcfc4cfcfccccc4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "790112",
-            "立法紀錄": "79卷4期2324號 116-123頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccf81c8c6cfcfcbcfcfc4cfcecec9c4cfcecdcc",
+            "會議日期": "840523",
+            "立法紀錄": "84卷32期2789號 33-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8ccce81c7cbcccdcfcfc4cfcfccccc4cfcfcccb",
             "關係文書": []
         }
     ]
