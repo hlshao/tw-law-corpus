@@ -1,11 +1,10 @@
 {
     "title": "實施耕者有其田條例",
     "versions": [
-        "中華民國43年12月14日修正",
-        "中華民國43年12月24日公布"
+        "中華民國42年1月20日制定",
+        "中華民國42年1月26日公布"
     ],
     "types": [
-        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -110,7 +109,7 @@
         {
             "note": "(實物土地債券之發行)",
             "rule_no": "第十六條",
-            "content": "　　實物土地債券，交由省政府依法發行，年利率百分之四，本利合計，分十年均等償清；其發行及還本付息事務，委託土地銀行辦理。\n　　前項債券持券人，免繳印花稅、利息所得稅及特別稅課之戶稅。",
+            "content": "　　實物土地債券，交由省政府依法發行，年利率百分之四，本利合計，分十年均等償清；持券人免繳印花稅及利息所得稅，其發行及還本付息事務，委託土地銀行辦理。",
             "relates": {}
         },
         {
@@ -188,9 +187,9 @@
             "section_name": "第四章  限制及罰則"
         },
         {
-            "note": "(耕地承領人不得移轉之規定)",
+            "note": "(耕地承領人不得移轉之限制)",
             "rule_no": "第二十八條",
-            "content": "　　耕地承領人，依本條例承領之耕地，在地價未繳清前，不得移轉，地價繳清以後，如有移轉，其承受人以能自耕或供工業用，或供建築用者為限。\n　　違反前項規定者，其耕地所有權之移轉無效。",
+            "content": "　　耕地承領人，依本條例承領之耕地，在地價未繳清以前，不得移轉，地價繳清以後，如有移轉，其承受人以能自耕及工業用者為限。",
             "relates": {}
         },
         {
@@ -244,60 +243,6 @@
             "rule_no": "第三十六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "430713",
-            "立法紀錄": "43卷13期號10冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc6cf81cbcccecccecfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cdcbcdd2cdcbcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "430730",
-            "立法紀錄": "43卷13期號7冊 92-92頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc6cf81cbcccecccfc8c4cfcfc6cdc4cfcfc6cd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cccccfd2ccccce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 88-90頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc6cf81cbcbcecbcfc9c4cfcfc7c7c4cfcfc6cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cecad2cec8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 184-185頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc6cf81cbcbcecbcfc9c4cfcec7cbc4cfcec7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 185-185頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc6cf81cbcbcecbcfc9c4cfcec7cac4cfcec7ca",
-            "關係文書": []
         }
     ]
 }
