@@ -1,12 +1,12 @@
 {
     "title": "勞資爭議處理法",
     "versions": [
-        "中華民國77年6月17日全文修正",
-        "中華民國77年6月27日公布"
+        "中華民國89年6月30日修正",
+        "中華民國89年7月19日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -28,7 +28,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關：在中央為行政院勞工委員會；在省（市）為省（市）政府；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱主管機關：在中央為行政院勞工委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -80,7 +80,7 @@
         {
             "note": "(勞資爭議調解之處理)",
             "rule_no": "第十一條",
-            "content": "　　勞資爭議之調解，直轄市或縣（市）主管機關，應於接到當事人申請調解或依職權交付調解之日起七日內，組成勞資爭議調解委員會處理之。\n　　同一勞資爭議事件，跨越二省（市）或二縣（市）管轄時，前項主管機關，由其共同上級主管機關指定之。",
+            "content": "　　勞資爭議之調解，直轄市或縣（市）主管機關，應於接到當事人申請調解或依職權交付調解之日起七日內，組成勞資爭議調解委員會處理之。\n　　同一勞資爭議事件，跨越二直轄市或縣（市）管轄時，前項主管機關，由中央主管機關指定之。",
             "relates": {}
         },
         {
@@ -186,7 +186,7 @@
         {
             "note": "(調整事項勞資爭議仲裁之處理)",
             "rule_no": "第二十八條",
-            "content": "　　調整事項勞資爭議之仲裁，直轄市、縣（市）主管機關，應於接到仲裁申請書之日起五日內組成勞資爭議仲裁委員會處理之。\n　　同一勞資爭議事件，跨越二省（市）或二縣（市）管轄時，前項主管機關，由其共同上級主管機關指定之。",
+            "content": "　　調整事項勞資爭議之仲裁，直轄市、縣（市）主管機關，應於接到仲裁申請書之日起五日內組成勞資爭議仲裁委員會處理之。\n　　同一勞資爭議事件，跨越二直轄市或縣（市）管轄時，前項主管機關，由中央主管機關指定之。",
             "relates": {}
         },
         {
@@ -196,9 +196,9 @@
             "relates": {}
         },
         {
-            "note": "(仲裁委員資格)",
+            "note": "(仲裁委員之積極資格)",
             "rule_no": "第三十條",
-            "content": "　　前條第一項第二款仲裁委員，應由直轄市、縣（市）主管機關每二年通知勞工團體及雇主團體各推荐公正並富學識經驗者十二人至四十八人任之，並報請上級主管機關核備。",
+            "content": "　　前條第一項第二款仲裁委員，應由直轄市、縣（市）主管機關每二年通知勞工團體及雇主團體各推薦公正並富學識經驗者十二人至四十八人任之，並報請中央主管機關備查。",
             "relates": {}
         },
         {
@@ -304,93 +304,50 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　配合臺灣省政府功能業務與組織之調整，將省主管機關規定刪除。",
+        "第十一條": "　　第二項配合臺灣省政府功能業務與組織之調整，將同一勞資爭議事件之調解跨越二省管轄之情形刪除，並將「共同上級主管機關」修正為「中央主管機關」。",
+        "第二十八條": "　　第二項配合臺灣省政府功能業務與組織之調整，將同一勞資爭議事件之調整事項之仲裁跨越二省管轄之情形刪除，並將直轄市、縣（市）主管機關之「共同上級主管機關」修正為「中央主管機關」。",
+        "第三十條": "　　配合臺灣省政府功能業務與組織之調整，將直轄市、縣（市）主管機關之「上級主管機關」修正為「中央主管機關」，並酌作文字修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "750325",
-            "立法紀錄": "75卷25期1927號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8cacfcdcacfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc881c7c6cecdcfcec4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cfcacfcfc5cdced2cbc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c8cccbd2c8cacc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "750510",
-            "立法紀錄": "75卷63期1965號 2-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8cacfc9cccfcfc4cfcfcfcdc4cfcfcecb",
+            "會議日期": "890504",
+            "立法紀錄": "89卷26期3085號 358-369頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc881c7c6cdc9cfcfc4cfcccac7c4cfccc9c6",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "750512",
-            "立法紀錄": "75卷64期1966號 2-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8cacfc9cbcfcfc4cfcfcfcdc4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750519",
-            "立法紀錄": "75卷66期1968號 2-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8cacfc9c9cfcfc4cfcfcfcdc4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750614",
-            "立法紀錄": "75卷74期1976號 2-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8cacfc8cbcfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "760706",
-            "立法紀錄": "77卷12期2123號 20-29頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8c8cfcecdcfcfc4cfcfcdcfc4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "761217",
-            "立法紀錄": "77卷13期2124號 2-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8c8cfcecccfcfc4cfcfcfcdc4cfcfcfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "720610",
-            "立法紀錄": "77卷47期2158號 23-59頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8c8cfcbc8cfcfc4cfcfcdccc4cfcfcac6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號上冊 49-68頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc881c7c6ccc6cfcec4cfcfcbc6c4cfcfc9c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cececbcfcfc5cdcccdd2cdc9c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cbcccad2cbcacb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "760610",
-            "立法紀錄": "77卷47期2158號 59-78頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8c8cfcbc8cfcfc4cfcfcac6c4cfcfc8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "770614",
-            "立法紀錄": "77卷48期2159號 22-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8c8cfcbc7cfcfc4cfcfcdcdc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "770617",
-            "立法紀錄": "77卷49期2160號 12-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc981c8c8cfcbc6cfcfc4cfcfcecdc4cfcfcec8",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號上冊 68-68頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cdcfc881c7c6ccc6cfcec4cfcfc9c7c4cfcfc9c7",
             "關係文書": []
         }
     ]
