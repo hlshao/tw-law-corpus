@@ -1,12 +1,12 @@
 {
     "title": "銓敘部組織法",
     "versions": [
-        "中華民國76年6月2日全文修正",
-        "中華民國76年7月8日公布"
+        "中華民國78年1月6日修正",
+        "中華民國78年1月23日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -78,7 +78,7 @@
         {
             "note": "(編制)",
             "rule_no": "第十二條",
-            "content": "　　銓敘部置主任秘書一人，研究委員四人，參事六人至八人，職務均列簡任第十職等至第十二職等；司長六人，職務列簡任第十二職等；副司長六人，專門委員八人至十人，職務均列簡任第十職等至第十一職等，其中專門委員二人，得列簡任第十職等至第十二職等；視察八人至十二人，職務列薦任第八職等至第九職等，其中三人得列簡任第十職等至第十一職等，二人得列簡任第十職等至第十二職等；秘書三人至五人，職務列薦任第八職等至第九職等，其中一人，得列簡任第十職等至第十一職等；科長二十二人至二十八人，職務列薦任第九職等；專員三十一人至三十五人，分析師二人，職務均列薦任第七職等至第九職等；設計師一人，職務列薦任第六職等至第八職等；科員五十八人至六十八人，助理設計師二人，職務均列委任第四職等至第五職等，其中科員三十人，得列薦任第六職等至第七職等；助理員十七人至二十一人，職務列委任第三職等至第五職等；書記八人至十三人，職務列委任第一職等至第三職等；雇員六人。",
+            "content": "　　銓敘部置主任秘書一人，參事六人至八人，司長六人，職務均列簡任第十二職等；研究委員四人，職務列簡任第十職等至第十二職等；副司長六人，職務列簡任第十一職等；專門委員八人至十人，職務列簡任第十職等至第十一職等，其中二人，得列簡任第十職等至第十二職等；高級分析師一人，職務列薦任第九職等至簡任第十一職等；視察八人至十二人，職務列薦任第八職等至第九職等，其中三人得列簡任第十職等至第十一職等，二人得列簡任第十職等至第十二職等；秘書三人至五人，職務列薦任第八職等至第九職等，其中一人，得列簡任第十職等至第十一職等；科長二十五人至三十一人，職務列薦任第九職等；專員四十七人至五十一人，分析師二人，職務均列薦任第七職等至第九職等；設計師三人，職務列薦任第六職等至第八職等；科員八十九人至九十九人，職務列委任第五職等，其中五十人，得列薦任第六職等至第七職等；助理設計師二人，管理員二人，助理員三十二人至三十六人，職務均列委任第三職等至第五職等；書記七人至十三人，職務列委任第一職等至第三職等；雇員二十九人。",
             "relates": {}
         },
         {
@@ -136,79 +136,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十二條": "　　一、主任秘書、參事、副司長、科員（委任）、助理設計師等五個職稱之列等，依據「職務列等表」修正。\n　　二、按照臺銓會現有承辦業務人力六十一人，分別納入本條文相當職務之員額內，計有科長三人、專員十一人、科員二十人、助理員十五人、雇員十二人等六十一人。\n　　三、另對銓敘部目前亟需增補及預估未來業務發展所需人力六十三人，分別增列。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "750107",
-            "立法紀錄": "75卷3期1905號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8cacfcfcccfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "771129",
+            "立法紀錄": "77卷96期2207號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cc81c8c8cfc6c9cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cecfcfcfc5cec8cad2cec7c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcec9cfcfc5cccfcdd2cccfc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "750426",
-            "立法紀錄": "75卷60期1962號 6-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8cacfc9cfcfcfc4cfcfcfc9c4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750501",
-            "立法紀錄": "75卷62期1964號 18-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8cacfc9cdcfcfc4cfcfcec7c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750522",
-            "立法紀錄": "75卷86期1988號 102-116頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8cacfc7c9cfcfc4cfcecfcdc4cfcecec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "751227",
-            "立法紀錄": "76卷27期2034號 95-105頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8c9cfcdc8cfcfc4cfcfc6cac4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "760110",
-            "立法紀錄": "76卷36期2043號 125-126頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8c9cfccc9cfcfc4cfcecdcac4cfcecdc9",
+            "會議日期": "771207",
+            "立法紀錄": "78卷45期2261號 199-211頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cc81c8c7cfcbcacfcfc4cfcec6c6c4cfcdcece",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "760519",
-            "立法紀錄": "76卷40期2047號 41-64頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8c9cfcbcfcfcfc4cfcfcbcec4cfcfc9cb",
+            "會議日期": "780106",
+            "立法紀錄": "78卷2期2218號 31-37頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cc81c8c7cfcfcdcfcfc4cfcfcccec4cfcfccc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cececfcfc5cdc8cdd2cdc6cc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcdcecfcfc5cbcacfd2cbcac9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "760522",
-            "立法紀錄": "76卷41期2048號 10-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8c9cfcbcecfcfc4cfcfcecfc4cfcfcdcb",
+            "會議日期": "780106",
+            "立法紀錄": "78卷2期2218號 37-37頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cc81c8c7cfcfcdcfcfc4cfcfccc8c4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "760602",
-            "立法紀錄": "76卷44期2051號 140-144頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cd81c8c9cfcbcbcfcfc4cfcecbcfc4cfcecbcb",
+            "會議日期": "780106",
+            "立法紀錄": "78卷2期2218號 38-38頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacac9cc81c8c7cfcfcdcfcfc4cfcfccc7c4cfcfccc7",
             "關係文書": []
         }
     ]
