@@ -1,12 +1,12 @@
 {
     "title": "行政院衛生署預防醫學研究所組織條例",
     "versions": [
-        "中華民國77年5月20日全文修正",
-        "中華民國77年6月10日公布"
+        "中華民國81年3月19日修正",
+        "中華民國81年4月6日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -58,9 +58,9 @@
             "relates": {}
         },
         {
-            "note": "(官等職等)",
+            "note": "(人員之任用)",
             "rule_no": "第九條",
-            "content": "　　第五條至第八條所定列有官等職等人員，均應依公務人員任用法取得任用資格，其職務所適用之職系，依公務人員任用法第八條之規定，就有關職系選用之。",
+            "content": "　　第五條至第八條所定列有官等職等人員，依公務人員任用法任用，其職務所適用之職系，依公務人員任用法第八條之規定，就有關職系選用之。但必要時，研究員、副研究員、助理研究員及研究助理，得依技術人員任用條例任用或依其職務等級，準用公立大專院校教師之規定聘任。",
             "relates": {}
         },
         {
@@ -94,65 +94,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第九條": "　　為提升本所研究水準，研究人員除採公務人員任用制外，另比照教育人員方式聘任及技術人員任用條例任用三制並行，以利延攬高級研究人才。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "760424",
-            "立法紀錄": "76卷33期2040號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec781c8c9cfcccccfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "801011",
+            "立法紀錄": "80卷83期2507號 11-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec681c7cfcfc7cccfcfc4cfcfcecec4cfcfcece",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cfc7cfcfc5cccad2cbcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cfc9cfcfc5ccccd2ccca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "761130",
-            "立法紀錄": "77卷39期2150號 153-160頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec781c8c8cfccc6cfcfc4cfcecaccc4cfcec9cf",
+            "會議日期": "801018",
+            "立法紀錄": "80卷94期2518號 310-319頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec681c7cfcfc6cbcfcfc4cfcccecfc4cfcccec6",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "761210",
-            "立法紀錄": "77卷47期2158號 204-210頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec781c8c8cfcbc8cfcfc4cfcdcfcbc4cfcdcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "770429",
-            "立法紀錄": "77卷35期2146號 27-42頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec781c8c8cfcccacfcfc4cfcfcdc8c4cfcfcbcd",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 41-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec681c7cecfcdcbcfcfc4cfcfcbcec4cfcfcac9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cececfcfcfc5c8cbcbd2c8caca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfc6cfcfc5ccc9c6d2ccc8cc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "770429",
-            "立法紀錄": "77卷35期2146號 42-52頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec781c8c8cfcccacfcfc4cfcfcbcdc4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "770520",
-            "立法紀錄": "77卷41期2152號 34-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec781c8c8cfcbcecfcfc4cfcfcccbc4cfcfcccb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "770520",
-            "立法紀錄": "77卷41期2152號 34-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec781c8c8cfcbcecfcfc4cfcfcccbc4cfcfccc8",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 56-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cac6cec681c7cecfcdcbcfcfc4cfcfcac9c4cfcfcac9",
             "關係文書": []
         }
     ]
