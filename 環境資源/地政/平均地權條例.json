@@ -1,12 +1,12 @@
 {
     "title": "平均地權條例",
     "versions": [
-        "中華民國75年6月17日全文修正",
-        "中華民國75年6月29日公布"
+        "中華民國78年10月12日修正",
+        "中華民國78年10月30日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -138,7 +138,7 @@
         {
             "note": "(自用住宅用地地價稅之計徵)",
             "rule_no": "第二十條",
-            "content": "　　合於左列規定之自用住宅用地，其地價稅按千分之三計徵：\n　　一、都市土地面積未超過三公畝部分。\n　　二、非都市土地面積未超過七公畝部分。\n　　政府興建之國民住宅，自動工興建或取得土地所有權之日起，其用地之地價稅，適用前項稅率計徵。\n　　土地所有權人與其配偶及未成年之受扶養親屬，適用第一項自用住宅用地稅率繳納地價稅者，以一處為限。",
+            "content": "　　合於左列規定之自用住宅用地，其地價稅按千分之三計徵：\n　　一、都市土地面積未超過三公畝部分。\n　　二、非都市土地面積未超過七公畝部分。\n　　政府興建之國民住宅，自動工興建或取得土地所有權之日起，其用地之地價稅，適用前項稅率計徵。\n　　土地所有權人與其配偶及未成年之受扶養親屬，適用第一項自用住宅用地稅率繳納地價稅者，以一處為限。\n　　自中華民國七十九年一月一日起，第一項之稅率按千分之二計徵。",
             "relates": {}
         },
         {
@@ -648,212 +648,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十條": "　　一、立法院已將「土地稅法」中第十七條地價稅由千分之五修正為千分之二，以減輕地價日益飆漲中自用住宅擁有民眾之地價稅負擔。\n　　二、因本年僅餘月餘，且一百廿萬稅單已準備完竣，故提請修正「平均地權條例」降低自用住宅地價稅率為千分之二，並自七十九年一月一日起實施。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "731026",
-            "立法紀錄": "73卷86期1780號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cccfc7c9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "781012",
+            "立法紀錄": "78卷82期2298號 20-21頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccc881c8c7cfc7cdcfcfc4cfcfcdcfc4cfcfcdce",
+            "主提案": "趙少康",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfcccfcfc5c7c7ccd2c6cbcd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740425",
-            "立法紀錄": "74卷52期1850號 85-100頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cbcfcacdcfcfc4cfcfc7cac4cfcecfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740502",
-            "立法紀錄": "74卷56期1854號 121-133頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cbcfcac9cfcfc4cfcecdcec4cfcecccc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740509",
-            "立法紀錄": "74卷58期1856號 2-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cbcfcac7cfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740518",
-            "立法紀錄": "74卷59期1857號 2-27頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cbcfcac6cfcfc4cfcfcfcdc4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740523",
-            "立法紀錄": "74卷60期1858號 2-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cbcfc9cfcfcfc4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740601",
-            "立法紀錄": "74卷62期1860號 2-16頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cbcfc9cdcfcfc4cfcfcfcdc4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741107",
-            "立法紀錄": "75卷12期1914號 2-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcecdcfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741121",
-            "立法紀錄": "75卷15期1917號 10-21頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcecacfcfc4cfcfcecfc4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741128",
-            "立法紀錄": "75卷18期1920號 115-128頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcec7cfcfc4cfcececac4cfcecdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741205",
-            "立法紀錄": "75卷20期1922號 159-169頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcdcfcfcfc4cfcecac6c4cfcec9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741212",
-            "立法紀錄": "75卷23期1925號 141-150頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcdcccfcfc4cfcecbcec4cfcecacf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741219",
-            "立法紀錄": "75卷26期1928號 59-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcdc9cfcfc4cfcfcac6c4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741226",
-            "立法紀錄": "75卷27期1929號 90-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcdc8cfcfc4cfcfc6cfc4cfcfc6c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741230",
-            "立法紀錄": "75卷30期1932號 88-94頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcccfcfcfc4cfcfc7c7c4cfcfc6cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750109",
-            "立法紀錄": "75卷35期1937號 105-113頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcccacfcfc4cfcecfcac4cfcececc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750116",
-            "立法紀錄": "75卷42期1944號 81-90頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbcdcfcfc4cfcfc7cec4cfcfc6cf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750317",
-            "立法紀錄": "75卷45期1947號 266-276頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbcacfcfc4cfcdc9c9c4cfcdc8c9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750320",
-            "立法紀錄": "75卷47期1949號 90-98頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbc8cfcfc4cfcfc6cfc4cfcfc6c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750324",
-            "立法紀錄": "75卷48期1950號 138-146頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbc7cfcfc4cfceccc7c4cfcecbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750424",
-            "立法紀錄": "75卷55期1957號 55-64頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcacacfcfc4cfcfcacac4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750426",
-            "立法紀錄": "75卷56期1958號 141-150頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcac9cfcfc4cfcecbcec4cfcecacf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750430",
-            "立法紀錄": "75卷58期1960號 10-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcac7cfcfc4cfcfcecfc4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750517",
-            "立法紀錄": "75卷65期1967號 2-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfc9cacfcfc4cfcfcfcdc4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "750603",
-            "立法紀錄": "75卷45期1947號 11-100頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbcacfcfc4cfcfcecec4cfcecfcf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cececfcfc5cacdccd2c9cece"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcfc7cfcfc5cacacdd2cacacb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "750603",
-            "立法紀錄": "75卷45期1947號 100-132頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbcacfcfc4cfcecfcfc4cfcecccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "750613",
-            "立法紀錄": "75卷48期1950號 5-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbc7cfcfc4cfcfcfcac4cfcfcdcb",
+            "會議日期": "781012",
+            "立法紀錄": "78卷82期2298號 32-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccc881c8c7cfc7cdcfcfc4cfcfcccdc4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "750617",
-            "立法紀錄": "75卷49期1951號 5-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccca81c8cacfcbc6cfcfc4cfcfcfcac4cfcfcdcd",
+            "會議日期": "781012",
+            "立法紀錄": "78卷82期2298號 43-44頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c7ccc881c8c7cfc7cdcfcfc4cfcfcbccc4cfcfcbcb",
             "關係文書": []
         }
     ]
