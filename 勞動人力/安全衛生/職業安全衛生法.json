@@ -1,12 +1,12 @@
 {
     "title": "職業安全衛生法",
     "versions": [
-        "中華民國80年4月30日全文修正",
-        "中華民國80年5月17日公布"
+        "中華民國91年4月25日修正",
+        "中華民國91年5月15日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -28,7 +28,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關：在中央為行政院勞工委員會；在省（市）為省（市）政府；在縣（市）為縣（市）政府。\n　　本法有關衛生事項，中央主管機關應會同中央衛生主管機關辦理。",
+            "content": "　　本法所稱主管機關：在中央為行政院勞工委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府。\n　　本法有關衛生事項，中央主管機關應會同中央衛生主管機關辦理。",
             "relates": {}
         },
         {
@@ -274,114 +274,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　一、為配合臺灣省政府功能業務與組織之調整及地方制度法之施行，將第一項主管機關在省為省政府之規定刪除。\n　　二、第二項未修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "781208",
-            "立法紀錄": "78卷98期2314號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c8c7cfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "910425",
+            "立法紀錄": "91卷28期3224號上冊 435-436頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cc81c6cecdc7cfcec4cfcbcccac4cfcbccc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5c6c7d2cecdcb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "790314",
-            "立法紀錄": "80卷2期2426號 299-313頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcfcdcfcfc4cfcdc6c6c4cfcccecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "790321",
-            "立法紀錄": "80卷7期2431號 51-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcfc8cfcfc4cfcfcacec4cfcfc8c8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "790418",
-            "立法紀錄": "80卷12期2436號 60-67頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcecdcfcfc4cfcfc9cfc4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "790425",
-            "立法紀錄": "80卷15期2439號 34-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcecacfcfc4cfcfcccbc4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "790510",
-            "立法紀錄": "80卷18期2442號 337-360頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcec7cfcfc4cfccccc8c4cfccc9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "790712",
-            "立法紀錄": "80卷40期2464號 227-237頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcbcfcfcfc4cfcdcdc8c4cfcdccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "791006",
-            "立法紀錄": "80卷42期2466號 194-202頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcbcdcfcfc4cfcec6cbc4cfcdcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "791013",
-            "立法紀錄": "80卷43期2467號 363-371頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcbcccfcfc4cfccc9ccc4cfccc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "791022",
-            "立法紀錄": "80卷45期2469號 252-255頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcbcacfcfc4cfcdcacdc4cfcdcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "800426",
-            "立法紀錄": "80卷34期2458號 34-74頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcccbcfcfc4cfcfcccbc4cfcfc8cb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfc6cfcfc5cdcecdd2cdcacc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbc8cad2caccc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "800426",
-            "立法紀錄": "80卷34期2458號 74-92頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcccbcfcfc4cfcfc8cbc4cfcfc6cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "800430",
-            "立法紀錄": "80卷35期2459號 37-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcccacfcfc4cfcfccc8c4cfcfccc6",
+            "會議日期": "910425",
+            "立法紀錄": "91卷28期3224號上冊 443-444頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cc81c6cecdc7cfcec4cfcbcbccc4cfcbcbcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "800430",
-            "立法紀錄": "80卷35期2459號 39-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cd81c7cfcfcccacfcfc4cfcfccc6c4cfcfccc6",
+            "會議日期": "910425",
+            "立法紀錄": "91卷28期3224號上冊 444-444頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9c8cc81c6cecdc7cfcec4cfcbcbcbc4cfcbcbcb",
             "關係文書": []
         }
     ]
