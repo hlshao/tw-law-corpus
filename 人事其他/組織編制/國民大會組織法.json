@@ -1,11 +1,10 @@
 {
     "title": "國民大會組織法",
     "versions": [
-        "中華民國42年12月29日修正",
-        "中華民國43年1月6日公布"
+        "中華民國36年3月25日制定",
+        "中華民國36年3月31日公布"
     ],
     "types": [
-        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -36,7 +35,7 @@
         {
             "note": "(主席團)",
             "rule_no": "第五條",
-            "content": "　　國民大會設主席團，由出席代表互選八十五人組織之，其職掌如左：\n　　一、關於議事程序事項。\n　　二、關於國民大會行政事項。\n　　三、本法規定其他事項。",
+            "content": "　　國民大會設主席團，由出席代表互選二十五人組織之，其職掌如左：\n　　一、關於議事程序事項。\n　　二、關於國民大會行政事項。\n　　三、本法規定其他事項。",
             "relates": {}
         },
         {
@@ -54,7 +53,7 @@
         {
             "note": "(開議及決議法定人數)",
             "rule_no": "第八條",
-            "content": "　　國民大會非有代表三分之一以上人數之出席，不得開議；其議決，除憲法及法律另有規定外，以出席代表過半數之同意為之。",
+            "content": "　　國民大會非有代表過半數之出席，不得開議；其議決，除憲法及法律另有規定外，以出席代表過半數之同意為之。",
             "relates": {}
         },
         {
@@ -92,54 +91,6 @@
             "rule_no": "第十四條",
             "content": "　　國民大會每次集會，於任務終了時，即行閉會。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "421218",
-            "立法紀錄": "43卷12期號7冊 35-35頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacccfcb81cbcccecdcfc8c4cfcfcccac4cfcfccca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cdc7c8d2cdc7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 13-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacccfcb81cbcccecdcfc7c4cfcfceccc4cfcfcecb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cbcdcbd2cbcdca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 51-57頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacccfcb81cbcccecdcfc7c4cfcfcacec4cfcfcac8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 57-57頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacccfcb81cbcccecdcfc7c4cfcfcac8c4cfcfcac8",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 58-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cacccfcb81cbcccecdcfc7c4cfcfcac7c4cfcfcac7",
-            "關係文書": []
         }
     ]
 }
