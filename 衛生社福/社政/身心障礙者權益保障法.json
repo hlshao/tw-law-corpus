@@ -1,12 +1,12 @@
 {
     "title": "身心障礙者權益保障法",
     "versions": [
-        "中華民國86年4月18日全文修正",
-        "中華民國86年4月23日公布"
+        "中華民國86年4月25日修正",
+        "中華民國86年4月26日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -424,7 +424,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第六十五條",
-            "content": "　　違反第三十七條第一項規定者，處新臺幣十萬元以上三十萬元以下罰鍰並限期改善；逾期未改善者，得按次連續處罰至其改善為止。\n　　前項情事於營業場所內發生時，依前項標準加倍處罰營業場所之負責人或其所有權人。同一負責人或所有權人二次以上違法時，其目的事業主管機關得依左列措施處罰：\n　　一、撤銷其營利事業許可之登記。\n　　二、勒令停業並採取斷水、斷電。\n　　三、兩年內不得於同一轄區經營相關行業。\n　　前兩項罰鍰之收入不列政府年度預算，應納入身心障礙者就業基金專戶，專供作推動視障者職業訓練、就業服務與安置、創業貸款、示範按摩中心（院）補助之用。該基金管理及運用之辦法，由中央勞政主管機關會同各目的事業主管機關定之。",
+            "content": "　　違反第三十七條第一項者，處新臺幣一萬元以上三萬元以下罰鍰，並限期改善。\n　　前項違法事件如於營業場所內發生並依前項標準加倍處罰場所之負責人或所有權人。\n　　前兩項罰鍰之收入不列入年度預算，應納入視障者就業基金專戶專款專用，專供作推動視障者職業訓練、就業服務與安置、創業貸款、示範按摩中心（院）補助之用。該基金管理及運用之辦法，由中央勞工主管機關會同各目的事業主管機關定之。",
             "relates": {}
         },
         {
@@ -492,164 +492,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第六十五條": "　　一、將第一項罰鍰減少。\n　　二、刪除第二項後段，同一負責人或所有權人二次以上違法時之處罰。\n　　三、第三項未修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "811030",
-            "立法紀錄": "81卷69期2597號上冊 162-164頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cecfc9c6cfcec4cfcec9cdc4cfcec9cb",
-            "主提案": "林宏宗",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 106-107頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccb81c7c9cec7cfcec4cfcecfc9c4cfcecfc8",
+            "主提案": "周陽山",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecfcfcfc5c9cbc8d2c9cbc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "830617",
-            "立法紀錄": "83卷43期2717號上冊 62-82頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cccbcccfcec4cfcfc9cdc4cfcfc7cd",
-            "主提案": "徐中雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcdcfcdc5cac9cfd2cac7ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "830714",
-            "立法紀錄": "83卷52期2726號上冊 428-429頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cccacdcfcec4cfcbcdc7c4cfcbcdc6",
-            "主提案": "顏錦福",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdc9cfcdc5ccc8cad2cbcfc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "830913",
-            "立法紀錄": "83卷57期2731號 61-124頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cccac8cfcfc4cfcfc9cec4cfcecdcb",
-            "主提案": "顏錦福",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcfcdcfcfc5c8ccccd2c8c6ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "840310",
-            "立法紀錄": "84卷14期2771號上冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cbcecbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "顏錦福",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacfcacfcfc5cacfc8d2cac8cf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "840623",
-            "立法紀錄": "84卷40期2797號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cbcbcfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcccfcfc5c7ced2cecacb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "851008",
-            "立法紀錄": "85卷49期2871號 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cacbc6cfcfc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "吳克清",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcfc6cfcfc5c6cad2c6c7"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830623",
-            "立法紀錄": "83卷47期2721號下冊 339-359頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cccbc8cfccc4cfccccc6c4cfcccac6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830713",
-            "立法紀錄": "83卷53期2727號 195-199頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cccacccfcfc4cfcec6cac4cfcec6c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "840327",
-            "立法紀錄": "84卷20期2777號 41-57頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cbcdcfcfcfc4cfcfcbcec4cfcfcac8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "841227",
-            "立法紀錄": "85卷3期2825號 395-443頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cacfcccfcfc4cfccc6cac4cfcbcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "850115",
-            "立法紀錄": "85卷7期2829號 241-281頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cacfc8cfcfc4cfcdcbcec4cfcdc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "851111",
-            "立法紀錄": "85卷60期2882號下冊 127-165頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7cac9cfcfccc4cfcecdc8c4cfcec9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "860304",
-            "立法紀錄": "86卷5期2897號上冊 51-238頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7c9cfcacfcec4cfcfcacec4cfcdccc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcbcfcec5cacdc7d2c8cfc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5c7cfc8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860328",
-            "立法紀錄": "86卷12期2904號上冊 49-64頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7c9cecdcfcec4cfcfcbc6c4cfcfc9cb",
+            "會議日期": "860425",
+            "立法紀錄": "86卷20期2912號上冊 32-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccb81c7c9cdcfcfcec4cfcfcccdc4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "860418",
-            "立法紀錄": "86卷18期2910號上冊 106-108頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccc81c7c9cec7cfcec4cfcecfc9c4cfcecfc7",
+            "會議日期": "860425",
+            "立法紀錄": "86卷20期2912號上冊 33-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c8cccb81c7c9cdcfcfcec4cfcfccccc4cfcfcccc",
             "關係文書": []
         }
     ]
