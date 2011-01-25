@@ -1,8 +1,8 @@
 {
     "title": "電業法",
     "versions": [
-        "中華民國96年3月5日修正",
-        "中華民國96年3月21日公布"
+        "中華民國100年1月7日修正",
+        "中華民國100年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -418,7 +418,7 @@
         {
             "note": "(電費—公用事業之收費)",
             "rule_no": "第六十五條",
-            "content": "　　電業供給自來水、電車、電鐵路等公用事業用電，其收費應低於普通電價。但以不低於供電成本為準。",
+            "content": "　　電業供給自來水、電車、電鐵路等公用事業及各級公私立學校用電，其收費應低於普通電價，但以不低於供電成本為準。\n　　前項收費辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -686,7 +686,7 @@
         {
             "note": "(罰則—竊電)",
             "rule_no": "第一百零六條",
-            "content": "　　有左列行為之一者為竊電，處五年以下有期徒刑、拘役或五百元以下罰金：\n　　一、未經電業供電，而在其供電線路上私接電線者。\n　　二、繞越電度表或其他計電器，損壞或改動表外之線路者。\n　　三、損壞或改變電度表、無效電力計、其他計電器之構造，或以其他方法使其失效不準者。\n　　四、在電價較低之線路上，私接電價較高之電器者。\n　　五、包燈用戶，在原定電燈盞數及瓦特數以外，私自增加盞數或瓦特數者。\n　　六、電力用戶，在原申請馬力數、瓦數或仟伏安數以外，私自增加馬力數、瓦數或仟伏安數者。",
+            "content": "　　有下列行為之一者為竊電，處五年以下有期徒刑、拘役或五百元以下罰金：\n　　一、未經電業供電，而在其供電線路上私接電線者。\n　　二、繞越電度表或其他計電器，損壞或改動表外之線路者。\n　　三、損壞或改變電度表、無效電力計、其他計電器之構造，或以其他方法使其失效不準者。\n　　四、在電價較低之線路上，私接電價較高之電器者。\n　　五、包燈用戶，在原定電燈盞數及瓦特數以外，私自增加盞數或瓦特數者。\n　　電力用戶在原申請馬力數、瓩數或仟伏安數以外，未申請而增加馬力數、瓩數或仟伏安數者，準用第七十三條規定求償電費。",
             "relates": {}
         },
         {
@@ -755,36 +755,93 @@
         }
     ],
     "law_reasons": {
-        "第七十五條": "　　照黨團協商條文通過。",
-        "第七十五條 之一": "　　照黨團協商條文通過。",
-        "第一百十二條": "　　照黨團協商條文通過。"
+        "第六十五條": "　　一、現行的學校用電優惠措施雖已行之有年，最近卻被檢討以不具法源依據而有被取消之虞。僉以我國教育預算原已捉襟見肘，如取消電價優惠，勢將排擠原定教育計劃施政經費，且恐加深城鄉學校環境之差距，礙及學生受教權益及其健康與安全等。爰提案修正電業法第65 條，比照公用事業將各級公私立學校納入用電優惠對象，俾保障學校基本用電之需求，維護學生受教權益。\n　　二、增列第二項為：「前項收費辦法，由中央主管機關定之。」。",
+        "第一百零六條": "　　一、第一項將「左列」文字修正為「下列」。\n　　二、第六款改列為第二項，文字修正為：「電力用戶在原申請馬力數、瓩數或仟伏安數以外，未申請而增加馬力數、瓩數或仟伏安數者，準用第七十三條規定求償電費。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940527",
-            "立法紀錄": "94卷40期3422號一冊 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cec7cc81c6cbcbcfcfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "唐碧娥",
+            "會議日期": "0981225",
+            "立法紀錄": "099卷001期3766號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cfc6c6cfcfcecfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "趙麗雲",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececbcfcec5cccdc7d2ccccce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecacfcec5cecec8d2cecec6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0980327",
+            "立法紀錄": "098卷014期3700號一冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cec7cb81c6c7cecbcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "潘孟安",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfcec5cecacdd2cecacc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "0991213",
+            "立法紀錄": "100卷002期3854號 306-351頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cecfcfcfcfcdcfcec4cfcccfc9c4cfcccace",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 126-128頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cecfcfcfcfc7cfcec4cfcecdc9c4cfcecdc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfcac5ccc7cfd2ccc7cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 129-131頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cecfcfcfcfc7cfcec4cfcecdc6c4cfceccce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfcac5ccc7cbd2ccc7c8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960305",
-            "立法紀錄": "96卷20期3543號二冊 79-85頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cec7cc81c6c9cdcfcfcdc4cfcfc8c6c4cfcfc7ca",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 128-129頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cecfcfcfcfc7cfcec4cfcecdc7c4cfcecdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 131-132頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cecfcfcfcfc7cfcec4cfcecccec4cfcecccd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "960305",
-            "立法紀錄": "96卷20期3543號二冊 85-85頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cec7cc81c6c9cdcfcfcdc4cfcfc7cac4cfcfc7ca",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 129-129頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cecfcfcfcfc7cfcec4cfcecdc6c4cfcecdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 132-132頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cec7cb81cecfcfcfcfc7cfcec4cfcecccdc4cfcecccd",
             "關係文書": []
         }
     ]
