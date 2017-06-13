@@ -186,7 +186,17 @@
             "note": "(設置財團法人原住民族語言研究發展基金會)",
             "rule_no": "第二十七條",
             "content": "　　中央主管機關為辦理原住民族語言研究發展等事項，應編列經費及接受私人、法人或團體之捐助，成立財團法人原住民族語言研究發展基金會。\n　　前項基金會組織設置及相關事項，另以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "06058",
+                        "law_name": "財團法人原住民族語言研究發展基金會設置條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(補助與獎勵原住民族語言保存及發展研究工作)",
@@ -244,7 +254,7 @@
             "進度": "一讀",
             "會議日期": "1051216",
             "立法紀錄": "105卷104期4401號一冊 22-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfcacecfcbcfcec4cfcfcdcdc4cfcfcdcd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfcacecfcbcfcec4cfcfcdcdc4cfcfcdcd",
             "主提案": "Kolas Yotaka",
             "關係文書": [
                 [
@@ -257,7 +267,7 @@
             "進度": "一讀",
             "會議日期": "1051223",
             "立法紀錄": "106卷4期4406號一冊 28-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcfcbcfcec4cfcfcdc7c4cfcfcdc7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcfcbcfcec4cfcfcdc7c4cfcfcdc7",
             "主提案": "行政院",
             "關係文書": [
                 [
@@ -270,7 +280,7 @@
             "進度": "一讀",
             "會議日期": "1051230",
             "立法紀錄": "106卷5期4407號一冊 20-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcfcacfcec4cfcfcdcfc4cfcfcdcf",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcfcacfcec4cfcfcdcfc4cfcfcdcf",
             "主提案": "孔文吉",
             "關係文書": [
                 [
@@ -283,7 +293,7 @@
             "進度": "一讀",
             "會議日期": "1051230",
             "立法紀錄": "106卷5期4407號一冊 25-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcfcacfcec4cfcfcdcac4cfcfcdca",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcfcacfcec4cfcfcdcac4cfcfcdca",
             "主提案": "鄭天財",
             "關係文書": [
                 [
@@ -296,7 +306,7 @@
             "進度": "一讀",
             "會議日期": "1060310",
             "立法紀錄": "106卷21期4423號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcdcecfcec4cfcfcfccc4cfcfcfcc",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcdcecfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "廖國棟",
             "關係文書": [
                 [
@@ -309,7 +319,7 @@
             "進度": "一讀",
             "會議日期": "1060310",
             "立法紀錄": "106卷21期4423號 12-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcdcecfcec4cfcfcecdc4cfcfcecd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcdcecfcec4cfcfcecdc4cfcfcecd",
             "主提案": "時代力量黨團",
             "關係文書": [
                 [
@@ -322,7 +332,7 @@
             "進度": "一讀",
             "會議日期": "1060317",
             "立法紀錄": "106卷23期4425號 7-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcdcccfcec4cfcfcfc8c4cfcfcfc7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcdcccfcec4cfcfcfc8c4cfcfcfc7",
             "主提案": "簡東明",
             "關係文書": [
                 [
@@ -335,28 +345,28 @@
             "進度": "委員會審查",
             "會議日期": "1060413",
             "立法紀錄": "106卷44期4446號 4-72頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcbcbcfcec4cfcfcfcbc4cfcfc8cd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcbcbcfcec4cfcfcfcbc4cfcfc8cd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "1060508",
             "立法紀錄": "106卷58期4460號 294-362頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcac7cfcec4cfcdc6cbc4cfccc9cd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcac7cfcec4cfcdc6cbc4cfccc9cd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "1060510",
             "立法紀錄": "106卷58期4460號 363-455頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfcac7cfcec4cfccc9ccc4cfcbcaca",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfcac7cfcec4cfccc9ccc4cfcbcaca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "1060526",
             "立法紀錄": "106卷60期4462號一冊 71-224頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfc9cfcfcec4cfcfc8cec4cfcdcdcb",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfc9cfcfcec4cfcfc8cec4cfcdcdcb",
             "關係文書": [
                 [
                     "審查報告",
@@ -368,14 +378,14 @@
             "進度": "二讀(逐條討論)",
             "會議日期": "1060526",
             "立法紀錄": "106卷60期4462號一冊 224-229頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfc9cfcfcec4cfcdcdcbc4cfcdcdc6",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfc9cfcfcec4cfcdcdcbc4cfcdcdc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
             "會議日期": "1060526",
             "立法紀錄": "106卷60期4462號一冊 229-233頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec8cecfcc81cecfc9cfc9cfcfcec4cfcdcdc6c4cfcdcccc",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9c8cacf81cecfc9cfc9cfcfcec4cfcdcdc6c4cfcdcccc",
             "關係文書": []
         }
     ]
